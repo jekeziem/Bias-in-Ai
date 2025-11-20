@@ -5,7 +5,6 @@ This project investigates gender-profession bias in pre-trained language models 
 - `notebook.ipynb` – Full Colab notebook with all steps and visualizations
 - `requirements.txt` – Python dependencies for reproducibility
 - `README.md` – Project overview and results
-- `outputs/` – Saved evaluation metrics, plots, and misclassified examples
 
 ## Methods
 1. **Data Loading & Preprocessing**
